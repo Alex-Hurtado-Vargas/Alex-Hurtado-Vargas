@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex-Hurtado-Vargas</h1>
-<h3 align="center">Desarrollador web</h3>
+<h3 align="center">Estudiante Desarrollador web</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
